@@ -3,10 +3,10 @@
 #pragma once
 #include <stdbool.h>
 
-/*Rock, paper, siisor Hand shapes definition*/
+/*Rock, paper, scissor Hand shapes definition*/
 #define STR_ROCK	"Rock"
 #define STR_PAPER	"Paper"
-#define STR_SISSOR	"Sissor"
+#define STR_SCISSORS	"Scissor"
 
 /* game results definition */
 #define STR_INVALID	"Invalid"
