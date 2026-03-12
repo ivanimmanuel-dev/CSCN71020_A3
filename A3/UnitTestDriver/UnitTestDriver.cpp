@@ -14,7 +14,7 @@ namespace UnitTestDriver
 		{
 			Assert::AreEqual(STR_PLAYER1, playGame(STR_ROCK, STR_SCISSORS));
 		}
-		TEST_METHOD(Test_Player1Win_RPaper)
+		TEST_METHOD(Test_Player1Win_Paper)
 		{
 			Assert::AreEqual(STR_PLAYER1, playGame(STR_PAPER, STR_ROCK));
 		}
